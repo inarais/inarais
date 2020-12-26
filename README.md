@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Inarais Jerônimo
+<script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: pt_BR</script><script type="IN/Share" data-url="LINK"></script>
 https://www.linkedin.com/in/inarais-jer%C3%B4nimo/
